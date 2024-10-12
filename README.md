@@ -1,5 +1,11 @@
 # Inventory-Report
-
+## TABLE CONTENT
+## [Project Overview](project-overview)
+## Data Source
+## Tool
+## Data Analysis
+## Exploratory Data Analysis
+## Result and Findings
 ### Project Overview 
 This project is aimed to give insight on the Sale performance in order to make great business decision. 
 Based on the data gotten we seek analyse the parameters which will enable to identify the trend, tell story 
