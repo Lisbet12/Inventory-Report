@@ -1,8 +1,8 @@
 # Inventory-Report
 ## TABLE CONTENT
-## [Project Overview](project-overview)
-## Data Source
-## Tool
+## [Project Overview](#project-overview)
+## [Data Source](#data-source)
+## [Tool](#tool)
 ## Data Analysis
 ## Exploratory Data Analysis
 ## Result and Findings
