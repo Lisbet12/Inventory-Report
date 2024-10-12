@@ -56,7 +56,7 @@ This involves exploring of data to answer some question regarding the data such 
 ### Result and Findings 
 - North East has the highest sum of Revenue
 - Ekiti market as the highest sum of Unit sold, i.e sales on the high side in Ekiti.
-- The sum of Unit sold and Revenue drop in 2015,ie,. the sales for 2014 was higher than 2015.
+- The sum of Unit sold and Revenue drop in 2015,ie,. the sales for 2014 was higher compare to that of 2015.
 - Service Plan Generated more Revenue for the Line of Business.
 
   
