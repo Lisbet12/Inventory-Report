@@ -3,9 +3,9 @@
 ## [Project Overview](#project-overview)
 ## [Data Source](#data-source)
 ## [Tool](#tool)
-## Data Analysis
-## Exploratory Data Analysis
-## Result and Findings
+## [Data Analysis](#data-analysis)
+## [Exploratory Data Analysis](#exploratory-data-analysis)
+## [Result and Findings](#result-and-findings)
 ### Project Overview 
 This project is aimed to give insight on the Sale performance in order to make great business decision. 
 Based on the data gotten we seek analyse the parameters which will enable to identify the trend, tell story 
