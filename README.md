@@ -27,6 +27,26 @@ This involves exploring of data to answer some question regarding the data such 
 - What is the total trade year for 2015 and 2016.
 - Which region is more Productive.
 
+
+![Picture7](https://github.com/user-attachments/assets/4fe035f4-ce8b-46b8-9fcf-250735bcd77b)
+![Picture11](https://github.com/user-attachments/assets/b03e0e87-badd-4b2e-8c6e-7eddda620ff0)
+
+![Picture5](https://github.com/user-attachments/assets/41fe1719-0b82-440c-8b9a-a36e481f6d70)
+
+![Picture1](https://github.com/user-attachments/assets/8ac5fa06-b042-4016-9be6-cc727010f874)
+![chart 2](https://github.com/user-attachments/assets/fb575956-c3fc-4522-b63f-231b643d2fe1)
+
+![Picture7](https://github.com/user-attachments/assets/e51dbfde-dc89-45eb-907c-be45433a4ac6)
+![Picture9](https://github.com/user-attachments/assets/b160f291-671c-4f46-b5ca-c2c2035543a5)
+
+![Picture6](https://github.com/user-attachments/assets/3d3872c4-57ca-4c7c-9c24-a6bd31521f3b)
+![Picture10](https://github.com/user-attachments/assets/76ec6b92-40e2-49f9-bdf9-3e479c3c9ad3)
+![Picture8](https://github.com/user-attachments/assets/5f698866-6cbc-4571-8bf0-50c41555e997)
+![Picture2](https://github.com/user-attachments/assets/1bd4a525-79a9-4e27-8a2a-6bf5945cc645)
+![Picture7](https://github.com/user-attachments/assets/b39f2597-a5f3-4a4a-a61d-2ff9b3ac7ef3)
+![Picture4](https://github.com/user-attachments/assets/3621f7eb-6182-45fe-bb1d-d9e2c58a6290)
+
+
 ### Result and Findings 
 - North East has the highest sum of Revenue
 - Ekiti market as the highest sum of Unit sold, i.e sales on the high side in Ekiti.
