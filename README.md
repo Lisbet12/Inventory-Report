@@ -5,7 +5,7 @@
 ## [Tool](#tool)
 ## [Data Analysis](#data-analysis)
 ## [Exploratory Data Analysis](#exploratory-data-analysis)
-## [Result and Findings](#result-and-findings)
+## [Inference and Insight](#inference-and-insight)
 
 ### Project Overview 
 This project is aimed to give insight on the Sale performance in order to make great business decision. 
@@ -54,7 +54,7 @@ This involves exploring of data to answer some question regarding the data such 
 ![Picture4](https://github.com/user-attachments/assets/3621f7eb-6182-45fe-bb1d-d9e2c58a6290)
 
 
-### Result and Findings 
+### Inference and Insight  
 - North East has the highest sum of Revenue
 - Ekiti market as the highest sum of Unit sold, i.e sales on the high side in Ekiti.
 - The sum of Unit sold and Revenue drop in 2015,ie,. the sales for 2014 was higher compare to that of 2015.
