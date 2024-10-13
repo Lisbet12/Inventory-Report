@@ -6,6 +6,7 @@
 ## [Data Analysis](#data-analysis)
 ## [Exploratory Data Analysis](#exploratory-data-analysis)
 ## [Result and Findings](#result-and-findings)
+
 ### Project Overview 
 This project is aimed to give insight on the Sale performance in order to make great business decision. 
 Based on the data gotten we seek analyse the parameters which will enable to identify the trend, tell story 
@@ -15,7 +16,7 @@ based on the data and also give more insight for better performance.
 The primary source of the data is from EXCEL.
 
 ### Tool 
-- EXCEL
+- EXCEL[Download Here](http://www.microsoft.com)
 - POWER POINT
 
 ### Data Analysis 
