@@ -59,6 +59,7 @@ This involves exploring of data to answer some question regarding the data such 
 - Ekiti market as the highest sum of Unit sold, i.e sales on the high side in Ekiti.
 - The sum of Unit sold and Revenue drop in 2015,ie,. the sales for 2014 was higher compare to that of 2015.
 - Service Plan Generated more Revenue for the Line of Business.
+- We can improve sale by creating more awareness, investing in marketing and promoting other the line of business.
 
   
 
