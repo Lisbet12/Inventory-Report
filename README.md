@@ -26,7 +26,7 @@ WHERE CONDITION = TRUE
 ```
 
 ### Exploratory Data Analysis 
-This involves exploring of data to answer some question regarding the data such as 
+This involves exploring of data to answer some question regarding the data such as; 
 - Which Market has the top Sum of Unit 
 - What is the total revenue for the each fiscal year
 - The total revenue for Line of business and Day Category.
